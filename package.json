@@ -1,0 +1,19 @@
+{
+  "name": "pusiang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vans58/unottea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vans58/unottea/issues"
+  },
+  "homepage": "https://github.com/vans58/unottea#readme"
+}
